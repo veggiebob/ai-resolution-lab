@@ -1,0 +1,4 @@
+resources/
+*.zip
+*.o
+*.hi

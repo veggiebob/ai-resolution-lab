@@ -1,0 +1,18 @@
+Predicates: buy woman truck dog man person animal acquire human 
+Variables: x3 x4 y0 x2 x5 x0 x1 
+Constants: Kim SK1 Mike Kelly SK0 
+Functions: 
+Clauses:
+!buy(x4,y0) acquire(x4,y0) 
+dog(Kim) 
+!man(x5) person(x5) 
+!dog(x0) animal(x0) 
+!human(x1) animal(x1) 
+!man(x2) human(x2) 
+!woman(x3) human(x3) 
+man(Mike) 
+person(Kelly) 
+truck(SK0) 
+buy(Mike,SK0) 
+truck(SK1) 
+buy(Kelly,SK1) 
